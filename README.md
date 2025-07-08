@@ -27,7 +27,7 @@
 ## 📬 Contact Me
 📧 yatishjobanputra@outlook.com  
 🌐 [Portfolio Website](https://yatish-dev.netlify.app/)  
-🔗 [LinkedIn](www.linkedin.com/in/yatish-dev)
+🔗 [LinkedIn]("www.linkedin.com/in/yatish-dev")
 ---
 
 ⚡ *“Code is just the syntax — real power lies in logic, creativity, and clear thinking.”*
