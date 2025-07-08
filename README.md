@@ -21,14 +21,13 @@
 ## 📚 Highlight Projects
 - 🔧 **AI Project Manager Agent** – Automates team planning using n8n & OpenAI
 - 💼 **Website Template Pack** – Reusable modern UI templates (HTML, CSS, JS)
-- 🛒 **Cookie-based E-Commerce Cart** – Sessionless shopping cart with Razorpay integration
-- 📸 **ESP32-CAM Spy Project** – Mini surveillance setup using ESP32 module
+- 🛒 **Cookie-based/Session E-Commerce Cart** – Sessionless shopping cart with Razorpay integration
+
 
 ## 📬 Contact Me
 📧 yatishjobanputra@outlook.com  
 🌐 [Portfolio Website](https://yatish-dev.netlify.app/)  
-🔗 [LinkedIn](#) (optional) | [Twitter](#) (optional)
-
+🔗 [LinkedIn](www.linkedin.com/in/yatish-dev)
 ---
 
 ⚡ *“Code is just the syntax — real power lies in logic, creativity, and clear thinking.”*
